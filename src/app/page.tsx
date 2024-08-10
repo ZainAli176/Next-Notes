@@ -60,7 +60,7 @@ const Page = () => {
   }
 
   if (!userId) {
-    return null; // or a loading spinner if you prefer
+    return null;
   }
 
   return (
